@@ -1,0 +1,2 @@
+# gospinner
+Spinner in go
